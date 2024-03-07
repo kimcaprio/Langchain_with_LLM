@@ -1,0 +1,16 @@
+pandas
+seaborn
+transformers
+langchain
+torch
+optimum
+auto-gptq
+bitsandbytes
+peft
+accelerate
+pypdf
+sentence-transformers
+faiss-gpu
+bs4
+chromadb
+pysqlite3-binary
